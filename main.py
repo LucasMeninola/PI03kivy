@@ -30,11 +30,9 @@ class TelaCadastro(Screen):
     pass
 
 
-class TelaCadastroAluno(Screen):
+class TelaProjeto(Screen):
     pass
 
-class TelaCadastroEmpresa(Screen):
-    pass
 
 class MyApp(MDApp):
 
